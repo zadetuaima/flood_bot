@@ -1,10 +1,10 @@
 # README
 
-flood_bot is a script used for identifying flood alerts and flood warnings within the UK. It uses OpenAI and the UK GOV environmental flood monitoring API to gab data regarding flood information in a particular county
+flood_bot is a script used to identifying flood alerts and flood warnings within the UK. It uses OpenAI and the UK GOV environmental flood monitoring API to grab data regarding flood information in a particular county.
 
 ## requisites
 
-Use the pip to install requirements.txt
+Use pip to install requirements.txt
 
 ```bash
 pip install requirements.txt
