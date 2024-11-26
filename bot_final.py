@@ -11,7 +11,7 @@ client = AzureOpenAI(
 
 #initial chat input message
 messages = [
-    {"role": "user", "content": "How many flood warnings are there in wiltshire?"}
+    {"role": "user", "content": input("Ask me a question about flood warnings/alerts: ")}
 ]
 
 def get_flood_data(area_name):
