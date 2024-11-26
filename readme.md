@@ -2,8 +2,6 @@
 
 flood_bot is a script used for identifying flood alerts and flood warnings within the UK. It uses OpenAI and the UK GOV environmental flood monitoring API to gab data regarding flood information in a particular county
 
-Spoticloud-dl is a script to download playlists from either Spotify or Soundcloud with a max bandwidth of either 320kbps or 128kbps respectively. The script also appends metadata to the mp3s, including album art, artist and album name if applicable. 
-
 ## requisites
 
 Use the pip to install requirements.txt
